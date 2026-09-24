@@ -22,11 +22,11 @@ entry_points:
         type: string
 
       min_price:
-        description: Minimum house price to be considered
+        description: Minimum rental price to be considered
         type: float
 
       max_price:
-        description: Maximum house price to be considered
+        description: Maximum rental price to be considered
         type: float
 
 
